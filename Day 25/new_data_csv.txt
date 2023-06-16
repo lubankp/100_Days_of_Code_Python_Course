@@ -1,0 +1,4 @@
+,students,scores
+0,Ania,15
+1,Ola,14
+2,Pawel,13
